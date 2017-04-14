@@ -1,3 +1,9 @@
 # jsugarman.github.io
 
-my page
+A Jekyll based personal blogging page
+
+## TODO:
+
+ * change theme
+ * add profile image
+ * add personalised banner
