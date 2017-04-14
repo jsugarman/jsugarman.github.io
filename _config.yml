@@ -29,7 +29,7 @@ github_username:  jsugarman
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-midnight
+theme: jekyll-theme-architect
 gems:
   - jekyll-feed
 exclude:
