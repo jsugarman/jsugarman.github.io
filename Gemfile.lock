@@ -197,7 +197,6 @@ DEPENDENCIES
   github-pages (~> 134)
   jekyll (= 3.4.3)
   jekyll-feed (~> 0.6)
-  jekyll-theme-hacker (~> 0.0.4)
   minima (= 2.0.0)
   rouge (~> 1.10, >= 1.10.1)
 
